@@ -1,0 +1,149 @@
+#topsec{
+    background-color: rgb(15, 15, 15);
+   color: #ffffff;
+    
+}
+.topcontent{
+    width: 40%;
+    margin:5% 30% 0% 10%;
+    
+}
+.btn-dark {
+    background: #0e151a;
+    background-image: -webkit-linear-gradient(top, #0e151a, #2980b9);
+    background-image: -moz-linear-gradient(top, #0e151a, #2980b9);
+    background-image: -ms-linear-gradient(top, #0e151a, #2980b9);
+    background-image: -o-linear-gradient(top, #0e151a, #2980b9);
+    background-image: linear-gradient(to bottom, #0e151a, #2980b9);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn-dark:hover {
+    background: #0c2a40;
+    background-image: -webkit-linear-gradient(top, #0c2a40, #8686c2);
+    background-image: -moz-linear-gradient(top, #0c2a40, #8686c2);
+    background-image: -ms-linear-gradient(top, #0c2a40, #8686c2);
+    background-image: -o-linear-gradient(top, #0c2a40, #8686c2);
+    background-image: linear-gradient(to bottom, #0c2a40, #8686c2);
+    text-decoration: none;
+  }
+
+  .dwnbtn{
+    margin:5% 3% 5% 0 ;
+}
+
+.navbarbar{
+  color:#ffffff;
+}
+
+.column1,.column2{
+  text-align: center;
+  margin: auto;
+}
+
+
+.humptyimg{
+  width: 70%;
+  border-radius: 50%;
+  
+}
+
+.introsec{
+  padding: 5%;
+  background-color: rgb(243, 242, 242);
+}
+
+.topbar{
+  color: #ffffff;
+}
+
+.upper{
+  background-color:#2980b9;
+  text-align: center;
+  margin: 5% 5% 0% 5%;
+  color: rgb(243, 242, 242);
+  padding-bottom: 3%;
+}
+.upperservice{
+  width: 60%;
+  margin: auto;
+}
+
+.lower{
+  background-color: #cfeafc;
+  text-align: center;
+  margin: 0% 5% 5% 5%;
+  padding: 5%;
+}
+
+.block:hover{
+  font-size: 120%;
+}
+
+#forthsection,#contacts{
+    background-image:linear-gradient(rgb(90, 149, 226),rgb(131, 40, 67));
+    text-align: center;
+    margin: auto;
+    padding: 5%;
+    color: #ffffff;
+}
+
+.forthsectionh2{
+  padding-bottom: 5%;
+}
+
+#videos{
+  background-color:  rgb(243, 242, 242);
+  padding-bottom: 5%;
+  margin:5% ;
+
+}
+.vid{
+  width: 26.25rem;
+  height: 17.5rem;
+  
+  margin: 0%;
+  padding: 0%;
+}
+.uppervideos{
+  text-align: center;
+}
+.lowervideos{
+  text-align: left;
+}
+
+/* testimonial */
+.testup{
+  background-color:  rgb(185, 200, 216);
+  text-align: center;
+  margin: 5% 5% 0% 5%;
+
+  padding: 2%;
+}
+.testdwn{
+  background-color:   rgb(243, 242, 242);
+  text-align: center;
+  margin: 0% 5% 5% 5%;
+  padding: 3%;
+}
+
+/* faq */
+#faq{
+  background-color:   rgb(243, 242, 242);
+  text-align: center;
+  padding: 5%;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding: 2%;
+}
+
